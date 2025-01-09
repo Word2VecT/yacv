@@ -67,7 +67,8 @@ yacv example_config.yml
 
 ### 语法树
 
-![Syntax Tree](demo/abstractsyntaxtree.pdf)
+[Syntax Tree](demo/abstractsyntaxtree.pdf)
+<img width="137" alt="Untitled" src="https://github.com/user-attachments/assets/55558015-7dfc-455e-9a55-88b19fac9a84" />
 
 ### DFA
 
@@ -75,11 +76,12 @@ yacv example_config.yml
 
 ### 语法分析表
 
-![Parsing Table](demo/lr0-parsing-table.csv)
+[Parsing Table](demo/lr0-parsing-table.csv)
+<img width="256" alt="Untitled" src="https://github.com/user-attachments/assets/f53a6fd7-499b-4459-8bdf-b4af57b3775e" />
 
 ### 可视化分析过程
 
-![Parsing Process](demo/ManimParsingVisualization.mp4)
+[[Parsing Process](demo/ManimParsingVisualization.mp4)](https://github.com/user-attachments/assets/f71b6035-a641-42c0-9f43-d03047393dfd)
 
 ## 已知问题
 
