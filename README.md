@@ -79,7 +79,7 @@ yacv example_config.yml
 
 ### 可视化分析过程
 
-[[Parsing Process](demo/ManimParsingVisualization.mp4)](https://github.com/user-attachments/assets/f71b6035-a641-42c0-9f43-d03047393dfd)
+https://github.com/user-attachments/assets/f71b6035-a641-42c0-9f43-d03047393dfd
 
 ## 已知问题
 
