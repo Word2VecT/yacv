@@ -1,6 +1,6 @@
 # yacv: Yet Another Compiler Visualizer
 
-> 基于 Github 项目 [yacv](https://github.com/ashutoshbsathe/yacv) 修改，修复了大量 bug
+> 基于 Github 项目 [yacv](https://github.com/ashutoshbsathe/yacv) 修改，修复了大量 bug，添加许多功能
 
 `yacv` 是一个用于可视化 LL(1) 和 LR 解析器 (LR0/SLR1/LR1/LALR1) 的工具。
 
@@ -65,9 +65,7 @@ yacv example_config.yml
 
 运行上述示例配置后，将生成以下内容：
 
-### 语法树
-
-[Syntax Tree](demo/abstractsyntaxtree.pdf)
+### [语法树](demo/abstractsyntaxtree.pdf)
 
 <img width="137" alt="Untitled" src="https://github.com/user-attachments/assets/55558015-7dfc-455e-9a55-88b19fac9a84" />
 
@@ -75,9 +73,7 @@ yacv example_config.yml
 
 ![DFA](demo/lr0-state-automaton.png)
 
-### 语法分析表
-
-[Parsing Table](demo/lr0-parsing-table.csv)
+### [语法分析表](demo/lr0-parsing-table.csv)
 
 <img width="256" alt="Untitled" src="https://github.com/user-attachments/assets/f53a6fd7-499b-4459-8bdf-b4af57b3775e" />
 
