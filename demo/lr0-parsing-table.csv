@@ -1,0 +1,8 @@
+,ACTION,ACTION,ACTION,GOTO,GOTO
+,$,a,b,S',S
+0,ERR,['s2'],ERR,ERR,['1']
+1,ACC,ERR,ERR,ERR,ERR
+2,ERR,['s2'],['s4'],ERR,['3']
+3,ERR,ERR,['s5'],ERR,ERR
+4,['r2'],['r2'],['r2'],ERR,ERR
+5,['r1'],['r1'],['r1'],ERR,ERR

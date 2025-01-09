@@ -1,5 +1,5 @@
 # Path to text file containing graammar productions
-grammar: "grammars/expression-grammar.txt"
+grammar: "examples/grammars/expression-grammar.txt"
 # String as space separated tokens
 string: "id + id"
 # Parsing algorithm. Choices = ['ll1', 'lr0', 'slr1', 'lr1', 'lalr1']
